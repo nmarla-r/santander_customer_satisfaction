@@ -1,4 +1,4 @@
-# santander_customer_satisfaction
+# Santander Customer Satisfaction
  
 - This repo contains data from kaggle that is titled santander customer satisfaction which is from a competion 6 years ago where santander has provided a lot of data without any variable names to the dataset.
 - It has 370 different variables in total, so the initial goal was to reduce this variables to less than 100 and then build a few models to get the best score.
